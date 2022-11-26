@@ -50,3 +50,9 @@ Lista_5[2] = 9
 print("Depois",Lista_5)
 
 
+
+#Concatenando listas
+Lista_7 = Lista_5 + Lista_6
+print(Lista_7)
+
+
