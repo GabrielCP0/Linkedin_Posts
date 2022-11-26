@@ -51,5 +51,5 @@ if "g" in variavel:
 if  "x" not in variavel:
     print("Não tem um 'x' alí ")
     
-
+#
 
